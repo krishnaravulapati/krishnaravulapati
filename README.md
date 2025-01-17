@@ -54,8 +54,8 @@ Welcome to my GitHub profile! I am a **Site Reliability Engineer (SRE)** and **D
 
 ## 🌟 **Pinned Repositories**
 Check out my key projects:
-1. **[Optimized-Data-Pipelines](https://github.com/yourusername/optimized-data-pipelines)**: ETL workflows with EMR Serverless.
-2. **[Real-Time-Analytics](https://github.com/yourusername/real-time-analytics)**: IoT pipeline with Kinesis and Spark Streaming.
+1. **[Optimized-Data-Pipelines](https://github.com/krishnaravulapati/optimized_data_pipeline)**: ETL workflows with EMR Serverless.
+2. **[Real-Time-Analytics](https://github.com/krishnaravulapati/real_time_analytics)**: IoT pipeline with Kinesis and Spark Streaming.
 3. **[ML-Pipeline](https://github.com/yourusername/ml-pipeline)**: ML training and deployment using SageMaker.
 
 ---
