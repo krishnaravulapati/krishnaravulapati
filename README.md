@@ -33,7 +33,8 @@ Welcome to my GitHub profile! I am a **Site Reliability Engineer (SRE)** and **D
 
 ## 📜 **Certifications**
 - AWS Certified Solutions Architect
-- Kubernetes Certified Application Developer (CKAD)
+- HashiCorp Certified Terraform Associate (https://verify.acloud.guru/61327AA7C937)
+- Kubernetes Certified Application Developer (https://www.linkedin.com/learning/certificates/5d5d12ecc32df61cf207783aeabf38070440392a22d3ae3ab98288cec0ee1ccf?u=2127409)
 - [More relevant certifications coming soon]
 
 ---
