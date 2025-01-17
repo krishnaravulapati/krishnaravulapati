@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I am a **Site Reliability Engineer (SRE)** and **D
 ---
 
 ## 📬 **Get in Touch**
-- **Website:** [Your Website or Portfolio URL]
+- **Website:** [https://krishnaravulapati.github.io/]
 - **LinkedIn:** https://www.linkedin.com/in/krishna-ravulapati
 - **Email:** kanthravulapati@gmail.com
 
